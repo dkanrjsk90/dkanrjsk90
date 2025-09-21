@@ -1,16 +1,38 @@
-## Hi there 👋
+## About Me
+- 컴퓨터 소프트웨어 개발자가 되기위해 공부하고 있습니다.
+- 새로운 기술을 배우고, 직접 만들어보며 실력을 쌓는 것을 목표로 하고 있습니다.
+- 관심 분야: 웹 개발, 데이터 분석, 인공지능(AI)
 
-<!--
-**dkanrjsk90/dkanrjsk90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Learning Plan (학습 계획)
+- **언어**: Python, JavaScript 학습 중
+- **웹 개발**: HTML, CSS 기초 공부
+- **데이터**: Pandas, Numpy, Matplotlib 등 데이터 분석 툴 익히기
+- **백엔드**: Node.js, Flask 배우기
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Planned Projects (해보고 싶은 프로젝트)
+
+### 1. Python 미니 게임
+- **목표**: Python으로 간단한 콘솔 게임 (예: 숫자 맞추기, 2인 합동 게임) 제작
+- **사용 예정 기술**: Python
+
+### 2. 여행객들을 위한 AI 서비스
+- **목표**: 여행객들이 목적지 정보를 쉽게 얻고 계획을 세울 수 있도록 AI를 활용한 서비스 만들기
+- **아이디어 예시**: 
+  - AI 여행 일정 추천  
+  - 맛집/관광지 자동 추천  
+  - 간단한 챗봇 기능  
+- **사용 예정 기술**: Python, OpenAI API, 웹 프레임워크
+- **기대 효과**: AI 응용 및 실제 사용자 중심 서비스 기획 경험
+
+  ### 3. 지역행사 캘린더
+- **목표**: 사용자 지역의 축제, 공연, 전시 등 다양한 행사 일정을 한눈에 볼 수 있는 웹 서비스
+- **아이디어 예시**:
+  - 공공 데이터(Open API) 활용  
+  - 카테고리별(문화, 스포츠, 교육 등) 필터 기능  
+  - 사용자 맞춤 추천 (즐겨찾기 지역 기반)  
+- **사용 예정 기술**: JavaScript, Open API
+- **기대 효과**: API 연동 경험, 사용자 편의성을 고려한 UI/UX 설계 경험
